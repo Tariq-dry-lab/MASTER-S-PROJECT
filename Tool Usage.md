@@ -1,8 +1,8 @@
 # Repository Structure
 
 
-Interaction_data_updated.zip   # contains input data for conformers (N1, N2, P1, P2)  
-Interaction_ver_2.py           # main script to extract and analyze interactions  
+Interaction_data_updated.zip   # contains input data for conformers script to analyse interaction energy(N1, N2, P1, P2)  
+Internal_coordinates.py        # main script to extract and analys the internal coordinates(bond angle,bond length, dihedral angle)
 README.md                      # project overview and background  
 Tool Usage.md                  # repository structure and usage instructions 
   
